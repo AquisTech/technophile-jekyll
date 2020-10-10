@@ -1,0 +1,26 @@
+{
+  "name": "technophile-jekyll",
+  "homepage": "https://github.com/AquisTech/technophile-jekyll",
+  "authors": [
+    "AquisTech <anand.bait@gmail.com>"
+  ],
+  "description": "A Jekyll Theme for Technophiles, Developers and Hackers",
+  "main": "",
+  "keywords": [
+    "jekyll-theme",
+    "jekyll",
+    "portfolio",
+    "developer",
+    "coder",
+    "blog",
+    "gallery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

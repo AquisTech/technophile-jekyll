@@ -1,0 +1,12 @@
+<h5>Primary:</h5>
+<p>
+{% for skill in site.author_skills.primary %}
+  <button class='btn btn-sm'>{{ skill }}</button>
+{% endfor %}
+</p>
+<h5>Secondary:</h5>
+<p>
+{% for skill in site.author_skills.secondary %}
+  <button href='#' class='btn btn-sm'>{{ skill }}</button>
+{% endfor %}
+</p>
